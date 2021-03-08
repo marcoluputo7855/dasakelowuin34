@@ -1,0 +1,4 @@
+baseURL = "https://celinepoems-fifo5.vercel.app"
+languageCode = "en-us"
+title = "Poems For Her in Life"
+theme = "hugo-theme-minos"
